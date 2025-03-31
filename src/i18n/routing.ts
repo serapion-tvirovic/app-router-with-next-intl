@@ -17,4 +17,11 @@ export const routing = defineRouting({
   },
 
   localeDetection: false,
+  pathnames: {
+    "/": "/",
+    "/about-us": {
+      de: "/uber-uns",
+      el: "/onima-osis",
+    },
+  },
 });
