@@ -6,5 +6,9 @@
   "AboutPage": {
     "title": "About us!",
     "about": "We are happy organization"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} el {el Greek} other {Unknown}}"
   }
 }

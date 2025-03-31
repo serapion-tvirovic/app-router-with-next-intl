@@ -1,4 +1,10 @@
-import { defineRouting } from "next-intl/routing";
+import { defineRouting, RoutingConfig } from "next-intl/routing";
+
+type DomainConfig = {
+  domain: string;
+  defaultLocale: string;
+  locales: string[];
+};
 
 export const routing = defineRouting({
   // A list of all locales that are supported

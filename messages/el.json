@@ -6,5 +6,9 @@
   "AboutPage": {
     "title": "Σχετικά με εμάς!",
     "about": "Είμαστε μια χαρούμενη οργάνωση"
+  },
+  "LocaleSwitcher": {
+    "label": "Elenida parloris",
+    "locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} el {el Greek} other {Unknown}}"
   }
 }
