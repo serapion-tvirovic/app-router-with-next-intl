@@ -17,7 +17,9 @@ bun dev
 Add 127.0.0.1 localhostel to your hosts file (Windows)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to open English content.
+
 Open [http://localhost:3000/de](http://localhost:3000/de) with your browser to open German content.
+
 Open [http://localhostel:3000](http://localhostel:3000) with your browser to open Greek content.
 
 ## Learn More
