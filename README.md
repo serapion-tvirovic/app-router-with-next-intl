@@ -14,11 +14,11 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Add 127.0.0.1 localhostel to your hosts file (Windows)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Open [http://localhost:3000](http://localhost:3000) with your browser to open English content.
+Open [http://localhost:3000/de](http://localhost:3000/de) with your browser to open German content.
+Open [http://localhostel:3000](http://localhostel:3000) with your browser to open Greek content.
 
 ## Learn More
 
